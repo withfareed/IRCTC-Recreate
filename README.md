@@ -18,7 +18,7 @@ easy to use even for elderly users.
 - Figma
 
 ## 🔗 Figma Project Link
-httpswww.figma.comprotomcKs1KlSzuYjcS6OBzFPx3IRCTC-Recreate-Apppage-id=0%3A1&node-id=107-26&p=f&viewport=1681%2C665%2C0.35&t=WvomdPQ5pVHt56Hq-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=107%3A19
+https://www.figma.com/proto/mcKs1KlSzuYjcS6OBzFPx3/IRCTC-Recreate-App?page-id=0%3A1&node-id=107-19&p=f&viewport=1681%2C665%2C0.35&t=WvomdPQ5pVHt56Hq-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=107%3A19
 
 
 ## 👤 Designer
